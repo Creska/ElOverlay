@@ -3,3 +3,6 @@ portraits/
 
 #Files Extension
 *.png
+
+#Specific Files
+desktop.ini
