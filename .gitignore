@@ -1,8 +1,10 @@
 #Folders
 portraits/
+Brackets_Bilder/
 
 #Files Extension
-*.png
 
 #Specific Files
 desktop.ini
+brackets.html
+Example.png
