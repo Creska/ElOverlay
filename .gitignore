@@ -1,10 +1,19 @@
 #Folders
 portraits/
 Brackets_Bilder/
+build-GUI-Desktop_Qt_5_9_9_MinGW_32bit-Debug/
+build-O_GUI-Desktop_Qt_5_9_9_MinGW_32bit-Debug
+GUI/
+.vscode/
 
 #Files Extension
+*.o
+
 
 #Specific Files
 desktop.ini
 brackets.html
 Example.png
+favicon.ico
+icon.png
+
